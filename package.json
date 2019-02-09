@@ -1,0 +1,17 @@
+{
+  "name": "levenshtein-test-data",
+  "version": "1.0.0",
+  "description": "Test data for Levenstein algorithm",
+  "main": "index.js",
+  "author": "Jacob Nisnevich",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "foobar-ipsum": "^1.0.3",
+    "js-levenshtein": "^1.1.6",
+    "random-words": "^1.1.0"
+  }
+}
